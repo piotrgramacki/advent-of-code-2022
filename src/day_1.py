@@ -1,4 +1,4 @@
-from src.settings import DATA_DIR
+from settings import DATA_DIR
 
 
 def day_1():
